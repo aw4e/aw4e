@@ -2,7 +2,7 @@
 
 Just a programmer exploring and learning every language, one line of code at a time. Always on the journey to master [`TypeScript`](https://www.typescriptlang.org/) and beyond.
 
-- **Discord:** `@aw4e_`
+- **Discord:** `@aw4e._`
 
 Always open for discussions about programming, gaming, or even anythings! 🚀✨
 
