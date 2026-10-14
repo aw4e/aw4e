@@ -18,6 +18,7 @@ jobs:
           template: classic
           filename: metrics.classic.svg
           base: header, activity, community, repositories, metadata
+          plugin_gists: yes
           plugin_lines: yes
           plugin_lines_sections: repositories
           plugin_lines_repositories_limit: 10
