@@ -18,6 +18,9 @@ jobs:
           template: classic
           filename: metrics.classic.svg
           base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_lines_sections: repositories
+          plugin_lines_repositories_limit: 10
 
       - uses: lowlighter/metrics@latest
         with:
