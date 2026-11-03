@@ -265,13 +265,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">aw4e/kibo</span>
+                            <span class="diff-handle">aw4e/5xFaction</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">aw4e/5xFaction</span>
+                            <span class="diff-handle">aw4e/IAA-UKDW</span>
                         </div>
                     </section>
                     <section>
@@ -375,11 +375,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +40.6k</span>
-                                <span class="deleted"> -11.4k</span>
+                                <span class="added"> +49.2k</span>
+                                <span class="deleted">   -542</span>
                             </div>
                             <span> </span>
                         </div>
@@ -387,11 +387,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +49.2k</span>
-                                <span class="deleted">   -542</span>
+                                <span class="added">   +31k</span>
+                                <span class="deleted"> -13.9k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -438,7 +438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 06:23:21  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2026, 19:24:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
